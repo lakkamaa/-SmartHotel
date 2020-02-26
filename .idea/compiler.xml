@@ -8,9 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="hotel_dao" />
         <module name="hotel_utils" />
-        <module name="hotel_web" />
-        <module name="hotel_service" />
         <module name="hotel_domain" />
+        <module name="hotel_service" />
+        <module name="hotel_web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
